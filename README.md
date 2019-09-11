@@ -97,6 +97,10 @@ Create an issue mentioning the bug you have found
 
 ## Support and contact details
 Contact [tinatasha](tashambiti@gmail.com) for further help/support
+
+
 ## License
 [MIT](/License)
-Copyright (c)2019 **John Wanjema**
+Copyright (c)2019 **tinatasha**
+
+
