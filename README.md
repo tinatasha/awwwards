@@ -96,7 +96,7 @@ Create an issue mentioning the bug you have found
 
 
 ## Support and contact details
-Contact [Murtallah Omtatah](omtatahmurtallah@gmail.com) for further help/support
+Contact [tinatasha](tashambiti@gmail.com) for further help/support
 ## License
 [MIT](/License)
 Copyright (c)2019 **John Wanjema**
