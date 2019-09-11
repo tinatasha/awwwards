@@ -1,4 +1,4 @@
-# Awwwardr
+# Awwwards
 ## Description
 A website that hosts other websites for users to review.
 Created by Murtallah Omtatah 4/7/2019
