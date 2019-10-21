@@ -100,7 +100,6 @@ Contact [tinatasha](tashambiti@gmail.com) for further help/support
 
 
 ## License
-[MIT](/License)
 Copyright (c)2019 **tinatasha**
 
 
